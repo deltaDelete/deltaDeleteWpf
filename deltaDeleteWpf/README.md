@@ -1,0 +1,1 @@
+﻿Adds implementation of ICommand and simple ViewModel
